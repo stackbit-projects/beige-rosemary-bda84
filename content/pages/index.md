@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: PHOTOSHOP EN LIGNE
+    title: PHOTOSHOP<br> EN LIGNE
     actions:
       - label: Contact Me
         url: /contact
