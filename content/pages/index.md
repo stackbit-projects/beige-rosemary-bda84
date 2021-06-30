@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: PHOTOSHOP EN LIGNE
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Retouche professionnelle de portraitsSuppression des éléments
+      indésirablesEnlèvement et remplacement de fond
     actions:
       - label: Contact Me
         url: /contact
