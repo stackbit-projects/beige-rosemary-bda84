@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: PHOTOSHOP EN LIGNE
-    subtitle: Retouche professionnelle de portraits
     actions:
       - label: Contact Me
         url: /contact
